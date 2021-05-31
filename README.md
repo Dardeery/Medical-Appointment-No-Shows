@@ -4,6 +4,7 @@ Why do 30% of patients miss their scheduled appointments?
 
 # Introduction
 This is an attempt to investigate No-Show Appointments dataset of 110,527,000 patient appointments in Brazil. 
+
 The dataset is posted on Kaggle with the following link https://www.kaggle.com/joniarroba/noshowappointments. 
 Here I'm trying to provide some insights reagrding factors that may predict the presence or absence of patient at appointment date based on the hotorical data in the dataset.
 
